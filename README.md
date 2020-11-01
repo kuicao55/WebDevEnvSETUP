@@ -19,3 +19,6 @@
 1. In termial type `npx create-react-app <name_of_app>` to create a react app.
 2. To run a react app, type `yarn start`.
 3. Packages to install: `yarn add react-router-dom`, `yarn add react-test-renderer`.
+
+## Install react-router-dom
+1. In terminal current workspace type `yarn add react-router-dom`. 
